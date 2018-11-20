@@ -1,0 +1,35 @@
+.student:hover {
+    color:Purple;
+    background-color:#FDCCBD;
+    font-family: 'Allerta Stencil';
+}
+.competition:hover {
+    color:Blue;
+    background-color:#7FFFD4;
+    font-family: 'Allerta Stencil';
+}
+.actor:hover {
+    color:Blue;
+    background-color:#ffff00;
+    font-family: 'Allerta Stencil';
+}
+.youtuber:hover {
+    color:White;
+    background-color:#FF0000;
+    font-family: 'Allerta Stencil';
+}
+img {
+    width:300px;
+    height:300px;
+    border-radius:300px;
+    border:10px dotted white;
+    background-color:black;
+}
+body {
+    text-align:center;
+    background-image:url("http://gbcghana.com/kitnes/data/2015/06/03/1.4220809.jpg");
+}
+h1 {
+    color:White;
+    font-family:'ranga';
+}
